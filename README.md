@@ -1,2 +1,2 @@
-# fisher-yates-shuffle
+# Fisher-Yates Shuffle
 Fisher–Yates shuffle
